@@ -1,7 +1,13 @@
 # Halloween-Card
 An animated halloween card made in Processing.
 
-**How to run**
----
-1. Download the entire folder.
-4. Run using the Processing application (can be downloaded at https://processing.org/download/).
+## Usage
+Requires Java and Processing (https://processing.org/download/) to run.
+
+Clone the repository:
+```
+$ git clone https://github.com/nicoella/Halloween-Card
+$ cd Halloween-Card/HalloweenCard
+```
+
+Run the `HalloweenCard.pde` file using the Processing application.
